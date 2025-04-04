@@ -1,1 +1,1 @@
-[# tsubrasa.github.io](https://tsubrasa.github.io/login/)
+https://tsubrasa.github.io/login/
